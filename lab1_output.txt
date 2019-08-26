@@ -1,0 +1,34 @@
+Python 3.7.3 (default, Apr  3 2019, 05:39:12) 
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================== RESTART: /home/cs2016b120/Achal/Swap.py ==================
+Enter the values for a20
+Enter the values for b30
+30  20
+>>> 
+================== RESTART: /home/cs2016b120/Achal/first.py ==================
+Enter the value of a:20
+Enter the value of b:30
+Addition of:  20  and  30  is:
+  50
+Multiplication of:  20  and  30  is:
+  600
+Division of:  20  and  30  is:
+  0.6666666666666666
+Integer Division of:  20  and  30  is:
+  0
+Exponent of:  20  and  30  is:
+  1073741824000000000000000000000000000000
+>>> 
+================= RESTART: /home/cs2016b120/Achal/second.py =================
+PYTHON PROGRAMMING
+C PROGRAMMING
+Pyth
+Python
+Length Of The String 18
+Pyth
+This is Python Programming Course
+Welcome to Python Programming Course
+"CMR University"
+>>> 
